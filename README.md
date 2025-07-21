@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I’m Pete
 
-<!--
-**kungfusheep/kungfusheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build high-performance systems, products, dev tools, and UI frameworks; with a bias for simplicity, speed, and control. Ex-bet365, currently Director of Architecture at Happening/Superbet. 
 
-Here are some ideas to get you started:
+- 🛠️ Working on [Glint](https://github.com/kungfusheep/glint) — a binary format focused on performance and clarity
+- ⚡ Wrote [JinGo](https://github.com/bet365/jingo), one of the fastest JSON encoders for Go
+- 🧠 Interested in performance, user experience, agentic tooling, serialization, canvas-based UI, and software that’s easy to change, release, test & delete.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Stuff I reach for
+
+Go (daily driver) · TypeScript · Lua · Swift · Bash  
+vim · pprof · LLMs & agentic tooling · Canvas / WebGL · C++
+xcode · Mac · Linux · Coffee
+
+---
+
+### 🎸 Elsewhere
+
+Five kids, mechanical keyboards, guitar, synths. Based in Lichfield, UK.
