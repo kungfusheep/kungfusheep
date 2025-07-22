@@ -14,6 +14,8 @@ Go (daily driver) · TypeScript · Lua · Swift · Bash
 vim · pprof · LLMs & agentic tooling · Canvas / WebGL · C++
 xcode · Mac · Linux · Coffee
 
+**🧪 Also exploring:** Zig · Rust
+
 ---
 
 ### 🎸 Elsewhere
