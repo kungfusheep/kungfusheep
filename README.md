@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Pete
 
-I design and build high-performance systems, products, dev tools, and UI frameworks; with a bias for simplicity, speed, and control. Ex-bet365, currently Director of Architecture at Happening/Superbet. 
+I design and build high-performance systems, products, dev tools, UI frameworks and for some reason high performance serialisation; with a bias for simplicity, speed, and control. Ex-bet365, currently Director of Architecture at Happening/Superbet. 
 
 - 🛠️ Working on [Glint](https://github.com/kungfusheep/glint) — a binary format focused on performance and clarity
 - ⚡ Wrote [JinGo](https://github.com/bet365/jingo), one of the fastest JSON encoders for Go
