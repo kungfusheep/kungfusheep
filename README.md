@@ -1,6 +1,6 @@
 # Pete Griffiths
 
-Interested in performance, user experience, serialization, UI, agentic tooling and software that’s easy to change, release, test & delete. Spent 19 years at bet365, now at Superbet. 
+Interested in performance, user experience, distributed systems, serialization, UI, agentic tooling and software that’s easy to change, release, test & delete. Spent 19 years at bet365, now at Superbet. 
 
 ---
 
