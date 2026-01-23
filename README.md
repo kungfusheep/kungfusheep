@@ -18,7 +18,8 @@ Interested in performance, user experience, distributed systems, serialization, 
 - [hue](https://github.com/kungfusheep/hue) - Hue CLI & MCP server
 - [colaps](https://github.com/kungfusheep/colaps) - interactive tree viewer
 - [mcpview](https://github.com/kungfusheep/mcpview) - server testing TUI
-- [huepresence](https://github.com/kungfusheep/huepresenced) - keep mac alive with a motion sensor 
+- [huepresence](https://github.com/kungfusheep/huepresenced) - keep mac alive with a motion sensor
+- [suplex](https://github.com/kungfusheep/suplex) - debug tui's, multiplex stdout/stderr into different panes 
 
 **Neovim**
 
