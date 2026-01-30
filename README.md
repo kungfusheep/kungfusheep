@@ -23,6 +23,7 @@ Interested in performance, user experience, distributed systems, serialization, 
 
 **Neovim**
 
+- [mfd.nvim](https://github.com/kungfusheep/mfd.nvim) - calm monotone themes
 - [randomword.nvim](https://github.com/kungfusheep/randomword.nvim) - printf debugging
 - [randomquote.nvim](https://github.com/kungfusheep/randomquote.nvim) - minimal start screen
 - [snipe-lsp.nvim](https://github.com/kungfusheep/snipe-lsp.nvim) - LSP symbol jumping
