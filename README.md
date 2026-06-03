@@ -20,7 +20,9 @@ Interested in performance, user experience, distributed systems, serialization, 
 - [colaps](https://github.com/kungfusheep/colaps) - interactive tree viewer
 - [mcpview](https://github.com/kungfusheep/mcpview) - server testing TUI
 - [huepresence](https://github.com/kungfusheep/huepresenced) - keep mac alive with a motion sensor
-- [suplex](https://github.com/kungfusheep/suplex) - debug tui's, multiplex stdout/stderr into different panes 
+- [suplex](https://github.com/kungfusheep/suplex) - debug tui's, multiplex stdout/stderr into different panes
+- [mail](https://github.com/kungfusheep/mail) - IMAP terminal email client written on ([glyph](https://github.com/kungfusheep/glyph))
+
 
 **Neovim**
 
