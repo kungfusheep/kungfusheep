@@ -22,7 +22,7 @@ Interested in performance, user experience, distributed systems, serialization, 
 - [huepresence](https://github.com/kungfusheep/huepresenced) - keep mac alive with a motion sensor
 - [suplex](https://github.com/kungfusheep/suplex) - debug tui's, multiplex stdout/stderr into different panes
 - [mail](https://github.com/kungfusheep/mail) - IMAP terminal email client written on [glyph](https://github.com/kungfusheep/glyph)
-- [q](https://github.com/kungfusheep/whyslow) - capture pmu and pprof data during benchmarking (Go|Zig) [glyph](https://github.com/kungfusheep/whyslow)
+- [whyslow](https://github.com/kungfusheep/whyslow) - capture pmu and pprof data during benchmarking (Go|Zig) [glyph](https://github.com/kungfusheep/whyslow)
 
 **Neovim**
 
