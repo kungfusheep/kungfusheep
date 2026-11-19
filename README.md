@@ -8,6 +8,7 @@ Interested in performance, user experience, distributed systems, serialization, 
 
 - [useglyph.sh](https://useglyph.sh) - declarative terminal UI framework for Go ([repo](https://github.com/kungfusheep/glyph))
 - [JinGo](https://github.com/bet365/jingo) - fastest Go JSON encoder
+- [jinzig](https://github.com/kungfusheep/jinzig) - fastest Zig JSON encoder
 - [glint](https://github.com/kungfusheep/glint) - fast binary format
 - [riffkey](https://github.com/kungfusheep/riffkey) - vim-like input routing
 
